@@ -1,7 +1,11 @@
 {
-  "name": "electron-vite-project",
-  "productName": "electron-vite-project",
+  "name": "team-ranker",
+  "productName": "Team-Ranker",
   "version": "1.0.0",
+  "author": {
+    "name": "Team Ranker",
+    "email": "parsonal322532@gmail.com"
+  },
   "description": "My Electron application description",
   "main": ".vite/build/main.js",
   "scripts": {
@@ -38,10 +42,6 @@
     "vite": "^5.0.12"
   },
   "keywords": [],
-  "author": {
-    "name": "prominhaj",
-    "email": "parsonal322532@gmail.com"
-  },
   "license": "MIT",
   "dependencies": {
     "electron-squirrel-startup": "^1.0.1",
